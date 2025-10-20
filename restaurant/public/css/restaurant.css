@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #0061a8;
+  --navbar-bg: #003b70;
+  --text-color: #ffffff;
+}
+
+.navbar {
+  background-color: red !important;
+}
+
